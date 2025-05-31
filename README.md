@@ -7,4 +7,4 @@
 - ☁️ AWS, GCP, Discord API, Destiny 2 API, Decodo API
 - ☕ JavaScript (intermediate), Java (beginner), Python (beginner)
 - ⚙️ OBS, DaVinci Resolve, MATLAB, SOLIDWORKS
-- 🩷 Anime, videogames, computers, privacy, right to repair, Nebraska volleyball
+- 🩷 Anime, videogames, computers, FOSS, privacy, right to repair
