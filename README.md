@@ -1,4 +1,4 @@
-# CPB - About Me!
+# cpb34 - About Me!
 - 🎓 Senior at the University of Nebraska-Lincoln
 - 💻 Major in Computer Science with a Focus in Cybersecurity
 - 📚 Minor in Mathematics
