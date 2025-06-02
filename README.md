@@ -5,4 +5,4 @@
 - ☕ JavaScript (intermediate), Java (beginner), Python (beginner)
 - ☁️ AWS, GCP, Discord API, Destiny 2 API, Decodo API
 - ⚙️ OBS, DaVinci Resolve, MATLAB, SOLIDWORKS
-- 🩷 Anime, videogames, computers, FOSS, privacy, right to repair
+- 🩷 Computers, FOSS, privacy, right to repair, anime, videogames
